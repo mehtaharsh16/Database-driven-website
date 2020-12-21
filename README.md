@@ -2,7 +2,7 @@
 
 This is an e-commerce website for the Brooklyn-based indie rock band Fair Visions. 
 
-The site is purely for academic purposes; it does not currently sell any real items.
+The site is purely for academic purposes; it does not currently sell any real items, and is not publicly accesible.
 
 The site is coded with PHP and HTML, while integrating a backend database with mySQLi queries, and it runs through C-Panel on a private server at Montclair State University. All code is provided in the "Full Project Contents" folder.
 
